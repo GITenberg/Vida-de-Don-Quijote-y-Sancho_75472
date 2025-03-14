@@ -1,0 +1,38 @@
+_repo: Vida-de-Don-Quijote-y-Sancho_75472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unamuno, Miguel de
+    aliases:
+    - Jugo, Miguel de Unamuno y
+    - De Unamuno, Miguel
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '5605'
+    url: http://www.gutenberg.org/2009/agents/5605
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Miguel_de_Unamuno
+    - https://es.wikipedia.org/wiki/Miguel_de_Unamuno
+description: ''
+gutenberg_issued: '2025-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75472'
+  lccn: tmp96029457
+language: es
+pgterms:marc904: https://archive.org/details/vidadedonquijote00unam/page/n3/mode/2up
+pgterms:marc905: 20230629142348deunamuno
+pgterms:marc906: '1914'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aMadrid :$bRENACIMIENTO, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cervantes Saavedra, Miguel de, 1547-1616. Don Quixote'
+- !lcc 'PQ'
+- GITenberg
+title: Vida de Don Quijote y Sancho
+url: http://www.gutenberg.org/ebooks/75472
