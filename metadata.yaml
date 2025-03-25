@@ -1,5 +1,8 @@
 _repo: Vida-de-Don-Quijote-y-Sancho_75472
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75472-h/images/cover.jpg
 creator:
   author:
     agent_name: Unamuno, Miguel de
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Miguel_de_Unamuno
     - https://es.wikipedia.org/wiki/Miguel_de_Unamuno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75472#Vida-de-Don-Quijote-y-Sancho
 gutenberg_issued: '2025-02-26'
 gutenberg_type: Text
 identifiers:
